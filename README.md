@@ -1,1 +1,1 @@
-# rpi-sense-hat
+# rpi-sense-hat-joystick
